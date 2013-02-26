@@ -1,6 +1,9 @@
 youtubeapi3example
 ==================
 
+Online working version -> http://io12-youtube-codelab.appspot.com/static/lesson6/index.html
+
+
 1. git clone https://github.com/kirai/youtubeapi3example.git
 
 2. cd youtubeapi3example/
@@ -12,4 +15,3 @@ youtubeapi3example
 5. python -m SimpleHTTPServer 8000
 
 
-Online working version -> http://io12-youtube-codelab.appspot.com/static/lesson6/index.html
