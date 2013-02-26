@@ -7,4 +7,6 @@ youtubeapi3example
 
 3. https://code.google.com/apis/console/ ,  Api Access -> Create Another client -> Web Application , http://0.0.0.0:8000 -> 
 
-4. python -m SimpleHTTPServer 8000
+4. Copy your Client ID to index.js OAUTH2_CLIENT_ID
+
+5. python -m SimpleHTTPServer 8000
