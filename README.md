@@ -10,3 +10,6 @@ youtubeapi3example
 4. Copy your Client ID to index.js OAUTH2_CLIENT_ID
 
 5. python -m SimpleHTTPServer 8000
+
+
+Online working version -> http://io12-youtube-codelab.appspot.com/static/lesson6/index.html
